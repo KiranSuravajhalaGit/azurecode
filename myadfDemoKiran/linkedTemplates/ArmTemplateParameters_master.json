@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "myadfDemoKiran"
+		},
+		"LS_Storage_mystorageaccgen2kir_accountKey": {
+			"value": ""
+		},
+		"LS_Storage_mystorageaccgen2kir_properties_typeProperties_url": {
+			"value": "https://mystorageaccgen2kir.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
