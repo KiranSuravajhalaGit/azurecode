@@ -1,6 +1,7 @@
 {
 	"name": "PL_Copy_Emp",
 	"properties": {
+		"description": "test desc",
 		"activities": [
 			{
 				"name": "Copy",
